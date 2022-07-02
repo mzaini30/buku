@@ -4,6 +4,6 @@ import {defineConfig} from "vite"
 export default defineConfig({
 	plugins: [book({
 		name: "Buku Zenia",
-		repo: "mzaini30/buku"
+		repo: "https://github.com/mzaini30/buku"
 	})]
 })
