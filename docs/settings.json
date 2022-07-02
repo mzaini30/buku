@@ -2,6 +2,13 @@
     "projectInfo": {
         "name": "Buku Zenia",
         "repo": "https://github.com/mzaini30/buku",
-        "list": []
+        "list": [
+            {
+                "type": "file",
+                "name": "Cara-Benar-dalam-Menggunakan-Adsense.md",
+                "url": "Cara-Benar-dalam-Menggunakan-Adsense",
+                "id": "Cara-Benar-dalam-Menggunakan-Adsense"
+            }
+        ]
     }
 }

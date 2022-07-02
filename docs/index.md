@@ -13,4 +13,8 @@ export default defineConfig({
 }
 ```
 
-a
+Simpel banget kan?
+
+Yang aku suka sih, kita ngetik langsung di browser. Jadi, ketika kita save yang di browser, otomatis akan terbuat file Markdown berdasarkan yang udah kita ketik.
+
+Beda sama tools lain yang kita ngetiknya di text editor.
