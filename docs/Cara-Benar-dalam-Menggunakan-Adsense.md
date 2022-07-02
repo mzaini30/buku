@@ -28,4 +28,6 @@ Bebas sih. Mau menjadikannya sebagai penghasilan utama maupun sampingan. Tapi ka
 
 Tentu, fokus di konten. Buatlah konten yang bermanfaat dan banyak. Kalau kita menggunakan Admob, buatlah aplikasi yang bermanfaat. Kuncinya di situ. Maksimal lah dalam membuat konten maupun aplikasi. Nggak usah terlalu fokus di penghasilannya. Nggak usah khawatir, pasti dapat kok duitnya. Intinya, buatlah produk yang bagus, kumpulkan user yang banyak, nanti duit datang sendiri.
 
+Kalau fokus di duitnya bahaya sih. Aku kan ada buat aplikasi yang menurutku bakal banyak yang pakai. Eh pas kulihat trafiknya, belum ada yang install. Itu kadang buat kecewa. Jadi, fokus aja di buat aplikasi maupun buat kontennya dulu. Duit itu nanti aja, tiba-tiba dah cair gitu.
+
 Jadi, memang sih harus ada kerjaan tetap, sambil menjalankan bisnis Adsense ini. Soalnya, penghasilan tetap itu lebih pasti daripada Adsense.
